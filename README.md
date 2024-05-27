@@ -11,4 +11,5 @@ This project is a full-stack application that allows users to register, log in, 
 # Weak Points
 
 - Server variables should not be exposed! Although on FE doesn't mean much, it's nice to have them as variables in one place.
+- Pagination is missing both on BE and FE
 - The layout is pretty poor, but I tried to make it more appealable and acceptable by using Tailwind
